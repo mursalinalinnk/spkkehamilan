@@ -1,0 +1,17 @@
+body{
+
+}
+
+#pagecell{
+	width:650px;
+	border:1px solid #cccccc;
+	margin-top:50px;
+	padding:10px 10px 10px 10px;
+	font-family:tahoma;
+	font-size:11pt;
+}
+
+#pagecell table{
+	font-family:tahoma;
+	font-size:11pt;
+}
